@@ -1,0 +1,14 @@
+---
+author: No author.
+tags:
+  - knowledge
+  - comp-sci
+  - projects
+  - binance-scrapper-main
+  - client
+  - public
+description: No description.
+---
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
